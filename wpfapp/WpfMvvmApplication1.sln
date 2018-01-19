@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmApplication1", "WpfMvvmApplication1\WpfMvvmApplication1.csproj", "{BF47BECD-2E8B-43B1-B97D-E713D9EC06F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScatterCell", "ScatterCell\ScatterCell.vdproj", "{CA11BDF6-34FA-4B46-88E4-85F8684B754C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF47BECD-2E8B-43B1-B97D-E713D9EC06F1}.Debug|x86.ActiveCfg = Debug|x86
+		{BF47BECD-2E8B-43B1-B97D-E713D9EC06F1}.Debug|x86.Build.0 = Debug|x86
+		{BF47BECD-2E8B-43B1-B97D-E713D9EC06F1}.Release|x86.ActiveCfg = Release|x86
+		{BF47BECD-2E8B-43B1-B97D-E713D9EC06F1}.Release|x86.Build.0 = Release|x86
+		{CA11BDF6-34FA-4B46-88E4-85F8684B754C}.Debug|x86.ActiveCfg = Debug
+		{CA11BDF6-34FA-4B46-88E4-85F8684B754C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
